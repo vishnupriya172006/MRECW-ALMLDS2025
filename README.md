@@ -12,3 +12,6 @@ https://www.kaggle.com/datasets/aleespinosa/apple-watch-and-fitbit-data
 
 
 https://www.kaggle.com/code/sivakumaros/notebookae19a1b555
+
+
+https://www.geeksforgeeks.org/python/basics-of-numpy-arrays/
