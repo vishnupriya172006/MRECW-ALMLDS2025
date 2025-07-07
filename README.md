@@ -15,3 +15,6 @@ https://www.kaggle.com/code/sivakumaros/notebookae19a1b555
 
 
 https://www.geeksforgeeks.org/python/basics-of-numpy-arrays/
+
+
+https://medium.com/@kelechiuzoukwu/superstore-sales-analysis-with-python-ee971d45ba9a
