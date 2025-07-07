@@ -9,3 +9,6 @@ https://www.kaggle.com/datasets/aleespinosa/apple-watch-and-fitbit-data?resource
 https://www.geeksforgeeks.org/data-science/active-product-sales-analysis-using-matplotlib-in-python/
 
 https://www.kaggle.com/datasets/aleespinosa/apple-watch-and-fitbit-data
+
+
+https://www.kaggle.com/code/sivakumaros/notebookae19a1b555
